@@ -56,3 +56,9 @@ SELECT name
 FROM customer
 WHERE COALESCE(referee_id,'') != 2;
 ```
+---
+
+## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
+---
+## [Explaination video on Youtube](https://youtu.be/7nxWGwDCdVU)
+
