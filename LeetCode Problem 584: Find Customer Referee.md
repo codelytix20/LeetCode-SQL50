@@ -1,4 +1,4 @@
-# LeetCode 584: Find Customer Referee
+# LeetCode Problem 584: Find Customer Referee
 
 ## Problem Statement
 You are given a table `customer` that holds customers' information along with their referees. Write a query to find the names of customers who were **not referred by the customer with `id = 2`**.
