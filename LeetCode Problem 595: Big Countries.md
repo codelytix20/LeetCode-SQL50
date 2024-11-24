@@ -9,27 +9,36 @@ The query should retrieve rows from the `World` table.
 
 ### Table: World
 
-| Column       | Type    |
-|--------------|---------|
-| `name`       | varchar |
-| `population` | int     |
-| `area`       | int     |
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| name        | varchar |
+| continent   | varchar |
+| area        | int     |
+| population  | int     |
+| gdp         | bigint  |
++-------------+---------+
 
 **Example Input:**
 
-| name       | population | area      |
-|------------|------------|-----------|
-| Afghanistan | 25500100   | 652230    |
-| Algeria     | 37100000   | 2381741   |
-| Andorra     | 84000      | 468       |
-| Angola      | 12878000   | 1246700   |
++-------------+-----------+---------+------------+--------------+
+| name        | continent | area    | population | gdp          |
++-------------+-----------+---------+------------+--------------+
+| Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
+| Albania     | Europe    | 28748   | 2831741    | 12960000000  |
+| Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
+| Andorra     | Europe    | 468     | 78115      | 3712000000   |
+| Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
++-------------+-----------+---------+------------+--------------+
 
 **Example Output:**
 
-| name       | population | area      |
-|------------|------------|-----------|
-| Afghanistan | 25500100   | 652230    |
-| Algeria     | 37100000   | 2381741   |
++-------------+------------+---------+
+| name        | population | area    |
++-------------+------------+---------+
+| Afghanistan | 25500100   | 652230  |
+| Algeria     | 37100000   | 2381741 |
++-------------+------------+---------+
 
 ---
 
