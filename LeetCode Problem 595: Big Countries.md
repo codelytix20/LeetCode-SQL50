@@ -52,3 +52,10 @@ SELECT name,
 FROM world
 WHERE area >= 3000000
       OR population>= 25000000;
+```
+
+---
+
+## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
+---
+## [Watch Explaination video on Youtube](https://youtu.be/hDHOu9A3W5M)
