@@ -30,3 +30,9 @@ Return the `product_id` of products that are both low fat (`low_fats = 'Y'`) and
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y';
+
+---
+
+## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
+---
+
