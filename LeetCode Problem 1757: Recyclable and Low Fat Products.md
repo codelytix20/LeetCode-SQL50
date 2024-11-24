@@ -35,6 +35,6 @@ WHERE low_fats = 'Y' AND recyclable = 'Y';
 
 ## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
 ---
-## [Explaination video on Youtube](https://youtu.be/4LCBfH_ua-I)
+## [Watch Explaination video on Youtube](https://youtu.be/4LCBfH_ua-I)
 
 
