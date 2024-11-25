@@ -49,6 +49,6 @@ ORDER BY id ASC;
 
 ## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
 ---
-## [Watch Explaination video on Youtube](https://youtu.be/7nxWGwDCdVU)
+## [Watch Explaination video on Youtube](https://youtu.be/F9fL6GxB3LU)
 
 
