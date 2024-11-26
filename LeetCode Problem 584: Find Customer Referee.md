@@ -62,3 +62,6 @@ WHERE COALESCE(referee_id,'') != 2;
 ---
 ## [Watch Explaination video on Youtube](https://youtu.be/7nxWGwDCdVU)
 
+---
+## [View full Playlist for Leetcode SQL50 Solutions](https://www.youtube.com/playlist?list=PLORt4hwlq-u7VEpoAot4Rmu7XorL2cHQF)
+---
