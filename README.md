@@ -38,3 +38,10 @@ By using the content of this repository, you agree to respect these terms.
 ---
 
 **Happy Coding!**  
+
+
+---
+## [View full Playlist for Leetcode SQL50 Solutions](https://www.youtube.com/playlist?list=PLORt4hwlq-u7VEpoAot4Rmu7XorL2cHQF)
+---
+## [Subscribe to CodeLytix Channel](https://www.youtube.com/@CodeLytix?sub_confirmation=1)
+---
