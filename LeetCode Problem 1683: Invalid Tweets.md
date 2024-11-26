@@ -46,7 +46,7 @@ WHERE LENGTH(content) > 15;
 
 ## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
 ---
-## [Watch Explaination video on Youtube](https://youtu.be/4LCBfH_ua-I)
+## [Watch Explaination video on Youtube](https://youtu.be/szhPQvs4TaY)
 
 
 ## [Subscribe to Channel](https://www.youtube.com/@CodeLytix?sub_confirmation=1)
