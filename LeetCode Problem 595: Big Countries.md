@@ -59,3 +59,7 @@ WHERE area >= 3000000
 ## [Go to Leetcode SQL50 Questions](https://github.com/codelytix20/LeetCode-SQL50)
 ---
 ## [Watch Explaination video on Youtube](https://youtu.be/hDHOu9A3W5M)
+
+---
+## [View full Playlist for Leetcode SQL50 Solutions](https://www.youtube.com/playlist?list=PLORt4hwlq-u7VEpoAot4Rmu7XorL2cHQF)
+---
