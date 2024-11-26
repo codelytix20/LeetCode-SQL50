@@ -50,3 +50,7 @@ WHERE LENGTH(content) > 15;
 
 
 ## [Subscribe to Channel](https://www.youtube.com/@CodeLytix?sub_confirmation=1)
+
+---
+## [View full Playlist for Leetcode SQL50 Solutions](https://www.youtube.com/playlist?list=PLORt4hwlq-u7VEpoAot4Rmu7XorL2cHQF)
+---
