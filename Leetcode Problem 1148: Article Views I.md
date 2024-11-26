@@ -51,4 +51,7 @@ ORDER BY id ASC;
 ---
 ## [Watch Explaination video on Youtube](https://youtu.be/F9fL6GxB3LU)
 
+---
+## [View full Playlist for Leetcode SQL50 Solutions](https://www.youtube.com/playlist?list=PLORt4hwlq-u7VEpoAot4Rmu7XorL2cHQF)
+---
 
